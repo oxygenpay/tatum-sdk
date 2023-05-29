@@ -1,4 +1,4 @@
-module github.com/oxygenpay/tatum-go-sdk
+module github.com/oxygenpay/tatum-sdk
 
 go 1.18
 
